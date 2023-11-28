@@ -1,0 +1,48 @@
+.divHome {
+  display: flex;
+  margin-left: 120px;
+  width: 80%;
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.divComment {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.imgClarifion {
+  width: 67%;
+  height: auto;
+}
+
+.divDeal {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.divMargin {
+  margin-top: 32px;
+}
+
+@media screen and (max-width: 600px) {
+  .divHome {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+  }
+
+  .imgClarifion {
+    width: 100%;
+    height: auto;
+  }
+
+  .divDeal {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}

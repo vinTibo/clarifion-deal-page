@@ -1,0 +1,14 @@
+.divSteps {
+  text-align: center;
+  display: flex;
+  justify-content: space-around;
+  margin: 0 auto;
+  width: 80%;
+}
+
+.divStep {
+  display: flex;
+  gap: 10px;
+  justify-content: space-between;
+  align-items: center;
+}

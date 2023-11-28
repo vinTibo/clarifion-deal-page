@@ -1,0 +1,50 @@
+.blueText {
+  color: #2C7EF8;
+}
+
+.buttonClaim {
+  background: transparent;
+  border-color: transparent;
+  margin-top: 32px;
+}
+
+.divDeal {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 18px;
+}
+
+.divSave {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 32px;
+  background-color: #EDF3FD;
+}
+
+.noThanks {
+  color: #F82C2C;
+  text-decoration: underline;
+}
+
+.noThanksDiv {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.paymentMethod {
+  text-align: center;
+  margin-top: 12px;
+}
+
+.divMargin {
+  margin-top: 32px;
+}
+
+.divGuarantee {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin-top: 32px;
+}
